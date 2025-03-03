@@ -3,3 +3,5 @@ tabula-py
 chardet
 selenium
 webdriver-manager
+tqdm
+plotly
