@@ -6,3 +6,4 @@ webdriver-manager
 tqdm
 plotly
 mistralai
+clickhouse_driver
