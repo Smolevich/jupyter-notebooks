@@ -23,6 +23,7 @@ Create these files in the main folder (they are hidden from Git):
 *   **`hh_api_updating.ipynb`** — updates job info (like if a job was deleted).
 *   **`hh_data_visualizer.ipynb`** — shows charts and analysis.
 *   **`telegram_stats.ipynb`** — analyzes Telegram data.
+*   **`openrouter_test.ipynb`** — tests connection and free models on OpenRouter.
 
 ### Python Scripts
 *   **`hh_api_tool.py`** — an interactive tool to quickly check jobs or companies in your terminal.
