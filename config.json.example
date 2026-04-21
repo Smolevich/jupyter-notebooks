@@ -1,0 +1,12 @@
+{
+    "client_id": "YOUR_CLIENT_ID",
+    "client_secret": "YOUR_CLIENT_SECRET",
+    "mistral_api_key": "YOUR_MISTRAL_API_KEY",
+    "clickhouse_host": "YOUR_CLICKHOUSE_HOST",
+    "clickhouse_password": "YOUR_CLICKHOUSE_PASSWORD",
+    "user_email": "YOUR_EMAIL@example.com",
+    "telegram_api_id": "YOUR_TELEGRAM_API_ID",
+    "telegram_api_hash": "YOUR_TELEGRAM_API_HASH",
+    "telegram_phone": "YOUR_TELEGRAM_PHONE",
+    "app_token": "YOUR_APP_TOKEN"
+}
