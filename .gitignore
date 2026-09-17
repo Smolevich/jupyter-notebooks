@@ -40,3 +40,7 @@ token.json
 
 # Data
 data/
+
+# Файл сессии Telethon = полный доступ к аккаунту, в репо не место
+*.session
+*.session-journal
